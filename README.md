@@ -1,2 +1,2 @@
-# KevinLaunchX-katas
-Katas para el programa LaunchX
+# Ejercicios de Python para el programa LaunchX 🚀
+
